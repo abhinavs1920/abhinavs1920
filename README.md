@@ -1,61 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h3 align="center">🚀 Problem Solver | 💡 Feature Builder | 🐛 Bug Slayer </h3>
+  <h3 align="center">I don’t have the full map yet, but I’m walking the path — one impactful solution at a time. Driven by curiosity, guided by efficiency. Always hunting for the next problem to solve.</h3>
 
-###
 
-<p align="left">I'm Abhinav!!!</p>
+- 🔭 I’m currently working on [krkn](https://github.com/krkn-chaos/krkn)
 
-###
+- 🌱 I’m currently learning **Golang, Data Structures and Algos**
 
-<h2 align="left">About me</h2>
+- 👯 I’m looking to collaborate on [Drizlink](https://github.com/Harsh2563/DrizLink_Cli)
 
-###
+- 🤝 I’m looking for help with [GDrive](https://github.com/abhinavs1920/GDrive)
 
-<p align="left">✨ Solving bugs since Oct 2022<br>📚 I'm currently learning Devops and Backend<br>🎯 Goals: To make myself better</p>
+- 📝 I regularly write articles on [https://medium.com/@abhinavs1920bpl](https://medium.com/@abhinavs1920bpl)
 
-###
+- 💬 Ask me about **flutter, dart, python, app dev, android**
 
-<h2 align="left">I code with</h2>
+- 📫 How to reach me **abhinavs1920bpl@gmail.com**
 
-###
+- 📄 Know about my experiences [https://drive.google.com/file/d/18_vJeFe8E1X3AHcmV_BODEC4jnPJuroM/view?usp=sharing](https://drive.google.com/file/d/18_vJeFe8E1X3AHcmV_BODEC4jnPJuroM/view?usp=sharing)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+- ⚡ Fun fact **I am also very creative in drawing and writing something.**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abhinavs1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavs1920" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinavs1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavs1920" height="30" width="40" /></a>
+<a href="https://medium.com/abhinavs1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="abhinavs1920" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhinavs1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavs1920" height="30" width="40" /></a>
+<a href="https://discord.gg/abhinavs1920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhinavs1920" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavs1920&show_icons=true&locale=en&layout=compact" alt="abhinavs1920" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavs1920&show_icons=true&locale=en" alt="abhinavs1920" /></p>
