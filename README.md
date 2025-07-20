@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [GDrive](https://github.com/abhinavs1920/GDrive)
 
-# - 📝 I regularly write articles on #[https://medium.com/@abhinavs1920bpl](https://#medium.com/@abhinavs1920bpl)
-
 - 💬 Ask me about **flutter, dart, python, app dev, android**
 
 - 📫 How to reach me **abhinavs1920bpl@gmail.com**
