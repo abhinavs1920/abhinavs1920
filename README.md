@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algos**
 
-- 💬 Ask me about **flutter, dart, python, app dev, android**
+- 💬 Ask me about **flutter, rust, python, java, golang**
 
 - 📫 How to reach me **abhinavs1920bpl@gmail.com**
 
