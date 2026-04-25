@@ -3,19 +3,17 @@
   <h3 align="center">I don’t have the full map yet, but I’m walking the path — one impactful solution at a time. Driven by curiosity, guided by efficiency. Always hunting for the next problem to solve.</h3>
 
 
-- 🔭 I’m currently working on [krkn](https://github.com/krkn-chaos/krkn)
+- 🔭 I’m currently working on [boa](https://github.com/boa-dev/boa)
 
 - 🌱 I’m currently learning **Golang, Data Structures and Algos**
-
-- 👯 I’m looking to collaborate on [Drizlink](https://github.com/Harsh2563/DrizLink_Cli)
-
-- 🤝 I’m looking for help with [GDrive](https://github.com/abhinavs1920/GDrive)
 
 - 💬 Ask me about **flutter, dart, python, app dev, android**
 
 - 📫 How to reach me **abhinavs1920bpl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18_vJeFe8E1X3AHcmV_BODEC4jnPJuroM/view?usp=sharing](https://drive.google.com/file/d/18_vJeFe8E1X3AHcmV_BODEC4jnPJuroM/view?usp=sharing)
+- ✍️ I write blogs on [medium](https://medium.com/@abhinavs1920)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18_vJeFe8E1X3AHcmV_BODEC4jnPJuroM/view?usp=sharing)
 
 - ⚡ Fun fact **I am also very creative in drawing and writing something.**
 
